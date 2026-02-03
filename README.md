@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Ranjani Natarajan  
 
-<!--
-**Ranjani-21/Ranjani-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 🐍 Python Developer | 🌐 Web Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project: Smart Resume Analyzer
+
+🔍 An AI-powered resume analysis system built using **Streamlit** that:
+- Analyzes PDF resumes  
+- Extracts skills  
+- Calculates resume score & ATS compatibility  
+- Provides career recommendations  
+- Uses a professional UI with animations  
+
+### 🛠 Tech Stack
+- Python
+- Streamlit
+- PyPDF2
+- HTML & CSS
+
+### 🔗 Project Link
+👉 https://github.com/Ranjani-21/smart-resume-analyzer
+
+---
+
+## 📌 Skills
+- Python
+- Data Analysis
+- Web Development
+- Git & GitHub
+
+---
+
+## 📫 Contact
+📧 Email: ranjaninn21@gmail.com
