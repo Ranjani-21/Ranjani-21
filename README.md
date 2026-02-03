@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Ranjani Natarajan  
 
-🎓 Computer Science Student | 🐍 Python Developer | 🌐 Web Enthusiast  
-
----
+🎓 Computer Science Student | ☕ Java & 🐍 Python Developer | 🤖 AI & Web Application Enthusiast  
 
 ## 🚀 Featured Project: Smart Resume Analyzer
 
